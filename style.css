@@ -1,0 +1,8 @@
+/* コートエリア */
+#pitch_area{
+    /*background-color:seagreen;*/
+    background-image: url("./img/grass-pattern-set/grass02_big.jpg");
+    width:1000px; height:600px;
+    position:fixed;
+}
+
