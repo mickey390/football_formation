@@ -4,5 +4,17 @@
     background-image: url("./img/grass-pattern-set/grass02_big.jpg");
     width:1000px; height:600px;
     position:fixed;
+    top:80px;
 }
 
+#select{
+    position: fixed;
+    top:50px;
+}
+#selectA{
+    float:left;
+}
+#selectB{
+    float:left;
+    margin-left:750px
+}
